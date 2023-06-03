@@ -1,0 +1,11 @@
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\bin\Debug\Voice commands.exe.config
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\bin\Debug\Voice commands.exe
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\bin\Debug\Voice commands.pdb
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice commands.csproj.AssemblyReference.cache
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice commands.csproj.SuggestedBindingRedirects.cache
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice_commands.Form1.resources
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice_commands.Properties.Resources.resources
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice commands.csproj.GenerateResource.cache
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice commands.csproj.CoreCompileInputs.cache
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice commands.exe
+D:\COLLECTIONSSS\PS TEST\BACkEND\Voice commands\Voice commands\obj\Debug\Voice commands.pdb
